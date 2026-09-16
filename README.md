@@ -1,3 +1,5 @@
+<img width="1737" height="905" alt="Screenshot 2026-09-16 233946" src="https://github.com/user-attachments/assets/64364183-d667-4d7f-bdc7-931867145c14" />
+<img width="1727" height="902" alt="Screenshot 2026-09-16 233925" src="https://github.com/user-attachments/assets/4d217004-fb43-48dd-abd2-417370cc95e4" />
 # 🌾 e-farmers
 
 A full-stack MERN e-commerce platform that connects farmers directly with buyers — no middlemen involved. Alongside a standard shopping experience (seeds, fertilizers, pesticides, and fresh produce), e-farmers includes a dedicated **Government Schemes & Subsidies** section to help farmers discover and apply for the support they're entitled to.
@@ -15,7 +17,14 @@ The project is split into three independent apps that share one backend:
 ## 📸 Preview
 
 **Home**
-![Home page](screenshots/01-home.png)
+![Home page](screenshots/01-home.png)<img width="1737" height="905" alt="Screenshot 2026-09-16 233946" src="https://github.com/user-attachments/assets/2e9e32c0-0a86-4c2f-b609-b497c35b8d73" />
+<img width="1748" height="878" alt="Screenshot 2026-09-16 234131" src="https://github.com/user-attachments/assets/a7da6608-76a3-4528-8161-8595ca846c04" />
+<img width="1777" height="888" alt="Screenshot 2026-09-16 234116" src="https://github.com/user-attachments/assets/5a605a6c-5e77-465e-8aef-121321b16199" />
+<img width="1807" height="887" alt="Screenshot 2026-09-16 234056" src="https://github.com/user-attachments/assets/42f54169-3763-40a5-84dc-aba0ceb260b1" />
+<img width="1702" height="900" alt="Screenshot 2026-09-16 234044" src="https://github.com/user-attachments/assets/d96306e8-d691-43a8-afb0-78f72f9a7ad3" />
+<img width="1742" height="891" alt="Screenshot 2026-09-16 234028" src="https://github.com/user-attachments/assets/ab86d26b-7c1a-49d9-b1c9-c1ddcf955810" />
+<img width="1825" height="892" alt="Screenshot 2026-09-16 234008" src="https://github.com/user-attachments/assets/82121598-c4c1-475e-8854-62b7e4ad0d46" />
+
 
 **Deals & Latest Collections**
 ![Deals and collections](screenshots/02-home-deals-collections.png)
