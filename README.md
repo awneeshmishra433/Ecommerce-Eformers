@@ -1,5 +1,3 @@
-<img width="1737" height="905" alt="Screenshot 2026-09-16 233946" src="https://github.com/user-attachments/assets/64364183-d667-4d7f-bdc7-931867145c14" />
-<img width="1727" height="902" alt="Screenshot 2026-09-16 233925" src="https://github.com/user-attachments/assets/4d217004-fb43-48dd-abd2-417370cc95e4" />
 # 🌾 e-farmers
 
 A full-stack MERN e-commerce platform that connects farmers directly with buyers — no middlemen involved. Alongside a standard shopping experience (seeds, fertilizers, pesticides, and fresh produce), e-farmers includes a dedicated **Government Schemes & Subsidies** section to help farmers discover and apply for the support they're entitled to.
@@ -17,35 +15,45 @@ The project is split into three independent apps that share one backend:
 ## 📸 Preview
 
 **Home**
-![Home page](screenshots/01-home.png)<img width="1737" height="905" alt="Screenshot 2026-09-16 233946" src="https://github.com/user-attachments/assets/2e9e32c0-0a86-4c2f-b609-b497c35b8d73" />
-<img width="1748" height="878" alt="Screenshot 2026-09-16 234131" src="https://github.com/user-attachments/assets/a7da6608-76a3-4528-8161-8595ca846c04" />
-<img width="1777" height="888" alt="Screenshot 2026-09-16 234116" src="https://github.com/user-attachments/assets/5a605a6c-5e77-465e-8aef-121321b16199" />
-<img width="1807" height="887" alt="Screenshot 2026-09-16 234056" src="https://github.com/user-attachments/assets/42f54169-3763-40a5-84dc-aba0ceb260b1" />
-<img width="1702" height="900" alt="Screenshot 2026-09-16 234044" src="https://github.com/user-attachments/assets/d96306e8-d691-43a8-afb0-78f72f9a7ad3" />
-<img width="1742" height="891" alt="Screenshot 2026-09-16 234028" src="https://github.com/user-attachments/assets/ab86d26b-7c1a-49d9-b1c9-c1ddcf955810" />
-<img width="1825" height="892" alt="Screenshot 2026-09-16 234008" src="https://github.com/user-attachments/assets/82121598-c4c1-475e-8854-62b7e4ad0d46" />
+![Home page](screenshots/01-home.png)
+<img width="1727" height="902" alt="Screenshot 2026-09-16 233925" src="https://github.com/user-attachments/assets/21c8d1b0-d635-46c6-8430-6850d023a35c" />
 
 
 **Deals & Latest Collections**
 ![Deals and collections](screenshots/02-home-deals-collections.png)
+<img width="1737" height="905" alt="Screenshot 2026-09-16 233946" src="https://github.com/user-attachments/assets/be463744-61e3-4815-b092-c67eb2bc43b6" />
+
+
 
 **Product Catalog**
 ![Collection page](screenshots/04-collection.png)
+<img width="1742" height="891" alt="Screenshot 2026-09-16 234028" src="https://github.com/user-attachments/assets/c0d38cd1-2497-4de7-833c-b10333b0f1ae" />
+
 
 **Government Schemes**
 ![Government schemes page](screenshots/05-schemes.png)
+<img width="1702" height="900" alt="Screenshot 2026-09-16 234044" src="https://github.com/user-attachments/assets/a03d86dd-1337-4542-b6df-46331b2b55ca" />
+
 
 **About Us**
 ![About page](screenshots/06-about.png)
+<img width="1807" height="887" alt="Screenshot 2026-09-16 234056" src="https://github.com/user-attachments/assets/3c0b4234-64b9-47f5-81c8-60c8b917e5ff" />
+
 
 **Our Team**
 ![Team section](screenshots/07-team.png)
+<img width="1777" height="888" alt="Screenshot 2026-09-16 234116" src="https://github.com/user-attachments/assets/ba4641d4-1d8b-4a74-8895-181c44496e9d" />
+
 
 **Contact**
 ![Contact page](screenshots/08-contact.png)
+<img width="1748" height="878" alt="Screenshot 2026-09-16 234131" src="https://github.com/user-attachments/assets/750867bd-39ec-4a12-bd36-d601bee8f282" />
+
 
 **Footer**
 ![Footer](screenshots/03-footer.png)
+<img width="1825" height="892" alt="Screenshot 2026-09-16 234008" src="https://github.com/user-attachments/assets/189d85b5-d6c4-443b-a9f6-de9460483cac" />
+
 
 ---
 
